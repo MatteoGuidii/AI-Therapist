@@ -31,4 +31,4 @@ Thrive is an innovative AI Therapist platform designed to provide accessible and
 ### License
 This project is licensed under the MIT License. This means you can freely use, modify, distribute, and sell this software, with the only requirement being to include the original copyright and license notice in any copies or substantial portions of the software.
 
-For the full license text, see the [LICENSE](LICENSE.md) file in this repository.
+For the full license text, see the [LICENSE](LICENSE) file in this repository.
