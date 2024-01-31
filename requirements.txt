@@ -1,0 +1,5 @@
+openai
+gradio
+google-cloud-texttospeech
+langdetect
+gradio_folium
